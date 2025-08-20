@@ -29,6 +29,7 @@ We adopted a Mask R-CNN model with ResNet-101 as the backbone, incorporating war
 | Class 3  | 0.9329   | 0.9756      | 0.9545      | 0.9333    | 0.9438   | 0.9457| 0.0901    | [0.9294,0.9501]    |
 
 ### Comparison of Segmentation Performance Across Datasets
+
 `This Study`
 | Metric        | Tooth   | Crown   | Bone    |
 |:-------------:|:-------:|:-------:|:-------:|
