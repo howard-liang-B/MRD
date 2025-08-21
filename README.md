@@ -1,7 +1,7 @@
 # Auxiliary Evaluation of Marginal Ridge Discrepancy in Periodontal Disease Using Deep Learning on Periapical Radiographs
 
 <p align="center">
-  <img src="resource/199_.png" width="500" height="300">
+  <img src="resource/199_.png" width="500" height="350">
 </p>
 
 ## Abstract
