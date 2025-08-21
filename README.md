@@ -43,7 +43,7 @@ We adopted a Mask R-CNN model with ResNet-101 as the backbone, incorporating war
 | Accuracy (p-value)   | 0.0124  | 0.0131  | 0.0164  |
 | Accuracy (95% CI)    | [0.9631, 0.9639] | [0.9842, 0.9873] | [0.9831, 0.9884] |
 
-`Mendeley Dataset (Thalji et al., 2024)`
+`Mendeley Dataset (Thalji et al., 2024)`  [![Mendeley Dataset](https://img.shields.io/badge/Mendeley-Dataset-orange)](https://data.mendeley.com/datasets/8ys8jssm9k/1)
 | Metric        | Tooth   | Crown   | Bone    |
 |:-------------:|:-------:|:-------:|:-------:|
 | DSC           | 0.9594  | 0.9497  | 0.9384  |
@@ -56,7 +56,7 @@ We adopted a Mask R-CNN model with ResNet-101 as the backbone, incorporating war
 | Accuracy (p-value)   | 0.0157  | 0.0119  | 0.0143  |
 | Accuracy (95% CI)    | [0.9590, 0.9611] | [0.9806, 0.9647] | [0.9827, 0.9649] |
 
-`Periapical X-rays Dataset (Sajad, 2021)`
+`Periapical X-rays Dataset (Sajad, 2021)` [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/muhammadsajad/periapical-xrays/data)
 | Metric        | Tooth   | Crown   | Bone    |
 |:-------------:|:-------:|:-------:|:-------:|
 | DSC           | 0.9610  | 0.9531  | 0.9367  |
